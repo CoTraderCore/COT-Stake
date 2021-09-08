@@ -1,4 +1,8 @@
 # COT-Stake
+```
+Stake pool token, get rewards
+```
+
 
 # if Router-Hash-test failed
 ```
